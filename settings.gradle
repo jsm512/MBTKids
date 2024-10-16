@@ -1,0 +1,6 @@
+rootProject.name = 'MBTKids'
+include 'ii-api'
+include 'ii-domain'
+include 'ii-common'
+include 'ii-infrastructure'
+
